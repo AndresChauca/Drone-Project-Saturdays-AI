@@ -1,4 +1,4 @@
-[![Drone Project Saturdays AI](logoai6uio.png)](https://lecoupa.github.io/)
+(logoai6uio.png)]
 # Drone-Project-Saturdays-AI
 Verificación del distanciamiento de Personas con el uso del Drone Parrot Bebop 2
 
